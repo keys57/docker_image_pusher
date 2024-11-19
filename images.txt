@@ -1,3 +1,4 @@
+mysql:5.7
 nginx
 tomcat
 node:12
