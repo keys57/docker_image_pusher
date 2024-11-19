@@ -1,3 +1,4 @@
+redis:6.0
 mysql:5.7
 nginx
 tomcat
