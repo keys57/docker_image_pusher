@@ -9,3 +9,4 @@ node:18
 node:14.18.1-alpine
 python
 redis:6
+openjdk:8-jre
