@@ -1,3 +1,5 @@
+tomcat:9.0-jdk8-corretto
+openjdk:8-jdk-oracle
 node:dubnium
 redis:6.0
 mysql:5.7
