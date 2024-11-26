@@ -1,3 +1,4 @@
+mysql:8
 qorzj/maven-jdk8-docker
 tomcat:9.0-jdk8-corretto
 openjdk:8-jdk-oracle
