@@ -1,3 +1,4 @@
+node:14
 mysql:8
 qorzj/maven-jdk8-docker
 tomcat:9.0-jdk8-corretto
@@ -8,7 +9,6 @@ mysql:5.7
 nginx
 tomcat
 node:12
-node:14
 node:16
 node:16.14
 node:16.15.0
