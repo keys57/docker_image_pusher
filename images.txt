@@ -1,3 +1,4 @@
+mysql:5.6
 node:14
 mysql:8
 qorzj/maven-jdk8-docker
