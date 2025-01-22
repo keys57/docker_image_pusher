@@ -1,3 +1,4 @@
+diluka/docker-with-buildx
 xuxueli/xxl-job-admin:2.2.0
 mysql:5.7.44
 redis:5
