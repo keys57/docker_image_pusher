@@ -1,4 +1,4 @@
-mrcs/nginx
+diluka/bull-board:3.2.1
 diluka/docker-with-buildx
 xuxueli/xxl-job-admin:2.2.0
 mysql:5.7.44
