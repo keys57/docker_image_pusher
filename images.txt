@@ -1,3 +1,4 @@
+gitlab/gitlab-ce:16.3.6-ce.0
 langgenius/dify-api:0.15.3
 langgenius/dify-web:0.15.3
 postgres:15-alpine
