@@ -1,3 +1,4 @@
 nginx:latest
 node:20-alpine
 altriumoss/jdk17:latest
+molgenis/maven-jdk17:latest
