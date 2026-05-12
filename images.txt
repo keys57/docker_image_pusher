@@ -3,3 +3,4 @@ node:20-alpine
 altriumoss/jdk17:latest
 molgenis/maven-jdk17:latest
 vrajpatel99/docker-maven-jdk17:latest
+node:22-bookworm-slim
